@@ -1,0 +1,35 @@
+body {
+    background-color: #17361496;
+  }
+  h1 {
+    font-style: bold;
+    font-family: Lora;
+  }
+  p, ul {font-family: Open Sans;
+    font-size: smaller;
+
+  }
+  strong {
+    font-size: larger; 
+    font-weight: bolder;
+    color: blue
+  }
+  .titulo{
+    font-family: Poppins;
+    font-size: 2em;
+  }
+  .indice {
+    font-size: larger;
+  }
+  .comunicação {
+    font-size: larger;
+  }
+  .escrita {
+    font-size: medium;
+  }
+  .HTML {
+    font-size: small;
+  }
+  #minhafoto{
+    border-radius: 40%;
+  }
