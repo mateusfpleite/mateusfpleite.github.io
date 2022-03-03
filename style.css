@@ -32,4 +32,15 @@ body {
   }
   #minhafoto{
     border-radius: 40%;
+    float: left;
+    margin-right: 30px;
+  }
+
+nav li {
+    display: inline-block;
+    width: 300px;
+    padding-bottom: 50px;
+}
+  main {
+      padding-bottom: 200px;
   }
